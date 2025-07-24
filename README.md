@@ -33,9 +33,7 @@ To run the app, type the following command in the terminal.
 ## Demo video
 
  [Emotion-based music recommendation system](
-
-
-https://github.com/Sachchaita-Hangloo/Mood2Music/demo.mp4
+ https://github.com/Sachchaita-Hangloo/Mood2Music/blob/main/demo.mp4
 )
  
 
